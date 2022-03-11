@@ -13,6 +13,7 @@ function App() {
   const [isModalShown, setIsModalShown] = useState(false);
 
   const showModalHandler = () => {
+    
     setIsModalShown(true);
   }
 
